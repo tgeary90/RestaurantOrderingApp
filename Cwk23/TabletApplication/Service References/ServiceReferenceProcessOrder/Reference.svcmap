@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a836f26b-47a9-4f41-b501-e2ba019eb0b9" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49919/ServiceProcessOrder.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceProcessOrder1.xsd" MetadataType="Schema" ID="b5b8c0e4-9818-4fbb-bfc9-e41380fa1b50" SourceId="1" SourceUrl="http://localhost:49919/ServiceProcessOrder.svc?xsd=xsd2" />
+    <MetadataFile FileName="ServiceProcessOrder.disco" MetadataType="Disco" ID="a6529b82-fcc1-4c17-810b-d897b459c541" SourceId="1" SourceUrl="http://localhost:49919/ServiceProcessOrder.svc?disco" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="e6ccf9b2-38cb-4db9-88b2-e2c58bf61a47" SourceId="1" SourceUrl="http://localhost:49919/ServiceProcessOrder.svc?wsdl" />
+    <MetadataFile FileName="ServiceProcessOrder3.xsd" MetadataType="Schema" ID="6b34403a-94ec-4d98-96de-1e57e8d99eb5" SourceId="1" SourceUrl="http://localhost:49919/ServiceProcessOrder.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServiceProcessOrder2.xsd" MetadataType="Schema" ID="979e4df2-9f03-44bd-a5a6-b8ddfd0db38c" SourceId="1" SourceUrl="http://localhost:49919/ServiceProcessOrder.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceProcessOrder.xsd" MetadataType="Schema" ID="b0c0a695-55d1-4480-96c5-2a561b3b96c0" SourceId="1" SourceUrl="http://localhost:49919/ServiceProcessOrder.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

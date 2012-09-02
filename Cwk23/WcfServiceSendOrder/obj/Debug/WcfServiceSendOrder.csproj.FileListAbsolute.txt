@@ -1,0 +1,8 @@
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\TabletDatabase.sdf
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\WcfServiceSendOrder.dll
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\WcfServiceSendOrder.pdb
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\TabletApplication.exe
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\TabletApplication.pdb
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\obj\Debug\WcfServiceSendOrder.dll
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\obj\Debug\WcfServiceSendOrder.pdb

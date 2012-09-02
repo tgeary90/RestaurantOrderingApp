@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:49919/ServiceProcessOrder.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:49919/ServiceProcessOrder.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:49919/ServiceProcessOrder.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WcfServiceSendOrder" />
+      <xsd:import schemaLocation="http://localhost:49919/ServiceProcessOrder.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServiceProcessOrder_GetData_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetData" />
+  </wsdl:message>
+  <wsdl:message name="IServiceProcessOrder_GetData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceProcessOrder_GetDataUsingDataContract_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataUsingDataContract" />
+  </wsdl:message>
+  <wsdl:message name="IServiceProcessOrder_GetDataUsingDataContract_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataUsingDataContractResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceProcessOrder_sendOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:sendOrder" />
+  </wsdl:message>
+  <wsdl:message name="IServiceProcessOrder_sendOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:sendOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceProcessOrder_sendMeal_InputMessage">
+    <wsdl:part name="parameters" element="tns:sendMeal" />
+  </wsdl:message>
+  <wsdl:message name="IServiceProcessOrder_sendMeal_OutputMessage">
+    <wsdl:part name="parameters" element="tns:sendMealResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceProcessOrder_getReadyOrders_InputMessage">
+    <wsdl:part name="parameters" element="tns:getReadyOrders" />
+  </wsdl:message>
+  <wsdl:message name="IServiceProcessOrder_getReadyOrders_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getReadyOrdersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceProcessOrder_updateOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:updateOrder" />
+  </wsdl:message>
+  <wsdl:message name="IServiceProcessOrder_updateOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:updateOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceProcessOrder_clearOrders_InputMessage">
+    <wsdl:part name="parameters" element="tns:clearOrders" />
+  </wsdl:message>
+  <wsdl:message name="IServiceProcessOrder_clearOrders_OutputMessage">
+    <wsdl:part name="parameters" element="tns:clearOrdersResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IServiceProcessOrder">
+    <wsdl:operation name="GetData">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceProcessOrder/GetData" message="tns:IServiceProcessOrder_GetData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceProcessOrder/GetDataResponse" message="tns:IServiceProcessOrder_GetData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDataUsingDataContract">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceProcessOrder/GetDataUsingDataContract" message="tns:IServiceProcessOrder_GetDataUsingDataContract_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceProcessOrder/GetDataUsingDataContractResponse" message="tns:IServiceProcessOrder_GetDataUsingDataContract_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="sendOrder">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceProcessOrder/sendOrder" message="tns:IServiceProcessOrder_sendOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceProcessOrder/sendOrderResponse" message="tns:IServiceProcessOrder_sendOrder_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="sendMeal">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceProcessOrder/sendMeal" message="tns:IServiceProcessOrder_sendMeal_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceProcessOrder/sendMealResponse" message="tns:IServiceProcessOrder_sendMeal_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getReadyOrders">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceProcessOrder/getReadyOrders" message="tns:IServiceProcessOrder_getReadyOrders_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceProcessOrder/getReadyOrdersResponse" message="tns:IServiceProcessOrder_getReadyOrders_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="updateOrder">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceProcessOrder/updateOrder" message="tns:IServiceProcessOrder_updateOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceProcessOrder/updateOrderResponse" message="tns:IServiceProcessOrder_updateOrder_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="clearOrders">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceProcessOrder/clearOrders" message="tns:IServiceProcessOrder_clearOrders_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceProcessOrder/clearOrdersResponse" message="tns:IServiceProcessOrder_clearOrders_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServiceProcessOrder" type="tns:IServiceProcessOrder">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetData">
+      <soap:operation soapAction="http://tempuri.org/IServiceProcessOrder/GetData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDataUsingDataContract">
+      <soap:operation soapAction="http://tempuri.org/IServiceProcessOrder/GetDataUsingDataContract" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sendOrder">
+      <soap:operation soapAction="http://tempuri.org/IServiceProcessOrder/sendOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sendMeal">
+      <soap:operation soapAction="http://tempuri.org/IServiceProcessOrder/sendMeal" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getReadyOrders">
+      <soap:operation soapAction="http://tempuri.org/IServiceProcessOrder/getReadyOrders" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateOrder">
+      <soap:operation soapAction="http://tempuri.org/IServiceProcessOrder/updateOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="clearOrders">
+      <soap:operation soapAction="http://tempuri.org/IServiceProcessOrder/clearOrders" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IServiceProcessOrder" binding="tns:BasicHttpBinding_IServiceProcessOrder">
+      <soap:address location="http://localhost:49919/ServiceProcessOrder.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

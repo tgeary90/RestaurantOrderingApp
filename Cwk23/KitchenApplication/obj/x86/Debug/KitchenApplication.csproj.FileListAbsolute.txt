@@ -1,0 +1,31 @@
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\bin\Debug\KitchenApplication.exe.config
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\bin\Debug\KitchenApplication.exe
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\bin\Debug\KitchenApplication.pdb
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\KitchenApplication.FormKitchen.resources
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\KitchenApplication.Properties.Resources.resources
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\KitchenApplication.exe
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\KitchenApplication.pdb
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\bin\Debug\KitchenApplication.exe.config
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\KitchenApplication.exe
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\KitchenApplication.pdb
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\bin\Debug\KitchenApplication.exe
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\bin\Debug\KitchenApplication.pdb
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\KitchenApplication.FormKitchen.resources
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\KitchenApplication.Properties.Resources.resources
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\KitchenApplication\bin\Debug\KitchenApplication.exe.config
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\KitchenApplication\obj\x86\Debug\KitchenApplication.exe
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\KitchenApplication\obj\x86\Debug\KitchenApplication.pdb
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\KitchenApplication\bin\Debug\KitchenApplication.exe
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\KitchenApplication\bin\Debug\KitchenApplication.pdb
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\KitchenApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\KitchenApplication\obj\x86\Debug\KitchenApplication.FormKitchen.resources
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\KitchenApplication\obj\x86\Debug\KitchenApplication.Properties.Resources.resources
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\KitchenApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\KitchenApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\KitchenApplication\obj\x86\Debug\KitchenApplication.FormStatistics.resources

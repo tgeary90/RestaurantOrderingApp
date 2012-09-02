@@ -1,0 +1,24 @@
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\TabletDatabase.sdf
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\WcfServiceSendOrder.dll
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\WcfServiceSendOrder.pdb
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\TabletApplication.exe
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\TabletApplication.pdb
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\obj\Debug\WcfServiceSendOrder.dll
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\obj\Debug\WcfServiceSendOrder.pdb
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\WcfServiceSendOrder\bin\TabletDatabase.sdf
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\WcfServiceSendOrder\bin\WcfServiceSendOrder.dll
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\WcfServiceSendOrder\bin\WcfServiceSendOrder.pdb
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\WcfServiceSendOrder\bin\TabletApplication.exe
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\WcfServiceSendOrder\bin\TabletApplication.pdb
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\WcfServiceSendOrder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\WcfServiceSendOrder\obj\Debug\WcfServiceSendOrder.dll
+C:\Documents and Settings\tom\My Documents\MScSE\Ent_Dev\coursework\cwk2\work\Application\Cwk23\WcfServiceSendOrder\obj\Debug\WcfServiceSendOrder.pdb
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\TabletDatabase.sdf
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\WcfServiceSendOrder.dll
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\WcfServiceSendOrder.pdb
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\TabletApplication.exe
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\bin\TabletApplication.pdb
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\obj\Debug\WcfServiceSendOrder.dll
+C:\Users\tom\Documents\MScSE\ent_dev\coursework\cwk2\Work\Application\Cwk23\WcfServiceSendOrder\obj\Debug\WcfServiceSendOrder.pdb
